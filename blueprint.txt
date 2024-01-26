@@ -1,0 +1,125 @@
+==============================
+Usage of ```<function_name>```
+==============================
+
+** IMPORTANT ** :
+- If you need to add more tests just copy any part from (::) to the next (::) and past
+it underneath your last test.
+
+- Press and change the dots (...), type YOUR function requirement.
+	(Make sure to fill all the ...)
+
+- Error handling is at the end of the file.
+	* Make sure to add (:) a colon after your Error name its a MOST.
+	Example:
+		Traceback (most recent call last):
+		ValueError: <--- (if this colon is missing doctest will not process your code)
+
+
+=================================================================
+
+This Module define ... using <function_name>
+
+=====
+Usage
+=====
+
+<function_name> is a function that ... and return ...
+
+::
+
+	>>> <function_name> = __import__('<file_name>').<function_name>
+
+::
+
+================
+Case: ...
+================
+
+::
+
+	>>> <function_name>(...)
+	...
+
+::
+
+	>>> <function_name>(...)
+	...
+
+::
+
+	>>> <function_name>(...)
+	...
+
+::
+
+
+The function can also work with ...
+================
+Case: ...
+================
+
+::
+
+	>>> <function_name>(...)
+	...
+
+::
+
+	>>> <function_name>(...)
+	...
+
+::
+
+	>>> <function_name>(...)
+	...
+
+::
+
+
+The function can also work with ...
+================
+Case: ...
+================
+
+::
+
+	>>> <function_name>(...)
+	...
+
+::
+
+	>>> <function_name>(...)
+	...
+
+::
+
+	>>> <function_name>(...)
+	...
+
+::
+
+The function can handle wrong kind of input and will raise different kind of Errors
+================
+Case: Exceptions
+================
+
+::
+
+	>>> <function_name>(...)
+	Traceback (most recent call last):
+	...
+
+::
+
+	>>> <function_name>(...)
+	Traceback (most recent call last):	
+	...
+
+::
+
+	>>> <function_name>(...)
+	Traceback (most recent call last):
+	...
+
+::
