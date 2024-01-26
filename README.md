@@ -25,9 +25,9 @@ This is made by an **ALX student** for **ALX students** who struggle with making
 - *file.py* : name of the module you have the function in that you want to test
 - *file.txt* : name of the .txt file to create for the doctests
 
-**Example**:
+**Example:**
 2. ```bash
-	$ python main.py 0-add_integer.py add_integer 0-add_integer.txt
+	$ python <main>.py <0-add_integer.py> <add_integer> <0-add_integer.txt>
 
 3.  Folder **tests** created plus the **.txt** file created
 
