@@ -29,11 +29,11 @@ This is made by an **ALX student** for **ALX students** who struggle with making
 2. ```bash
 	$ python main.py 0-add_integer.py add_integer 0-add_integer.txt
 
-- Folder **tests** created plus the **.txt** file created
+3.  Folder **tests** created plus the **.txt** file created
 
 ![picture shows a new directory created](/images/tests_created.png)
 
-- Here you can see a ready to edit blueprint of a doctest file with function name
+4. Here you can see a ready to edit blueprint of a doctest file with function name
 	on the right placed and the file name too to be ready to import modules when tests are ran
 
 ![picture of a text file](/images/txt_file.png)
