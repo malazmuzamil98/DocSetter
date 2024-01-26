@@ -26,15 +26,15 @@ This is made by an **ALX student** for **ALX students** who struggle with making
 - *file.txt* : name of the .txt file to create for the doctests
 
 **Example**:
-1. ```bash
+2. ```bash
 	$ python main.py 0-add_integer.py add_integer 0-add_integer.txt
 
-2. Folder **tests** created plus the **.txt** file created
-![Alt Text]("/images/tests_created.png")
+- Folder **tests** created plus the **.txt** file created
+![Alt Text]("./images/tests_created.png")
 
-3. Here you can see a ready to edit blueprint of a doctest file with function name
+- Here you can see a ready to edit blueprint of a doctest file with function name
 	on the right placed and the file name too to be ready to import modules when tests are ran
-![Alt Text]("/images/txt_file.png")
+![Alt Text]("./images/txt_file.png")
 
 
 ## Contributing
