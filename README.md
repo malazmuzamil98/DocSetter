@@ -24,17 +24,17 @@ This is made by an **ALX student** for **ALX students** who struggle with making
 - *file.py* : name of the module you have the function in that you want to test
 - *file.txt* : name of the .txt file to create for the doctests
 
-- If you need to add more tests just copy any part from (::) to the next (::) and past
+- If you need to add more tests just copy from (::) to the next (::) and past
 it underneath your last test.
 
-- Press and change the dots (...), type YOUR function requirement.
-	(Make sure to fill all the ...)
+- Press and change the dots (...) to **YOUR** function requirement.
+	*(Make sure to fill all the ...)*
 
 - Error handling is at the end of the file.
 	- Make sure to add (:) a colon after your Error name its a MOST.
 	- Example:
 		Traceback (most recent call last):
-		ValueError: <--- (if this colon is missing doctest will not process your code)
+		ValueError: <--- *(if this colon is missing doctest will not process your code)*
 
 ## Example
 - ```bash
