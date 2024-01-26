@@ -47,7 +47,7 @@ it underneath your last test.
 - Here you can see a ready to edit blueprint of a doctest file with function name
 	on the right placed and the file name too to be ready to import modules when tests are ran
 
-![picture of a text file](/images/txt_file.pn)
+![picture of a text file](/images/txt_file.png)
 
 
 ## Contributing
