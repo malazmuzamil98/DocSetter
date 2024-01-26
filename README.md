@@ -10,16 +10,15 @@ This is made by an **ALX student** for **ALX students** who struggle with making
 - [Example](#Example)
 - [Contributing](#contributing)
 - [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 
-# installation
+## installation
 
 1. Clone the repository inside your project directory.
 	```bash
 	git clone https://github.com/your_username/DocSetter.git
 
-# Usage
+## Usage
 - ```bash
 	$ python main.py <file.py> <function_name> <file.txt>
 - *file.py* : name of the module you have the function in that you want to test
@@ -37,7 +36,7 @@ it underneath your last test.
 		Traceback (most recent call last):
 		ValueError: <--- (if this colon is missing doctest will not process your code)
 
-# Example
+## Example
 - ```bash
 	$ python <main>.py <0-add_integer.py> <add_integer> <0-add_integer.txt>
 
