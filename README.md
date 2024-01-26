@@ -32,8 +32,8 @@ it underneath your last test.
 
 - Error handling is at the end of the file.
 	- Make sure to add (:) a colon after your Error name its a MOST.
-	- Example:
-		Traceback (most recent call last):
+	- Example:<br>
+		Traceback (most recent call last):<br>
 		ValueError: <--- *(if this colon is missing doctest will not process your code)*
 
 ## Example
