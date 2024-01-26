@@ -30,11 +30,11 @@ This is made by an **ALX student** for **ALX students** who struggle with making
 	$ python main.py 0-add_integer.py add_integer 0-add_integer.txt
 
 - Folder **tests** created plus the **.txt** file created
-![picture shows a new directory created]("/images/tests_created.png")
+![picture shows a new directory created]("DocSetter/images/tests_created.png")
 
 - Here you can see a ready to edit blueprint of a doctest file with function name
 	on the right placed and the file name too to be ready to import modules when tests are ran
-![picture of a text file]("/images/txt_file.png")
+![picture of a text file]("DocSetter/images/txt_file.png")
 
 
 ## Contributing
