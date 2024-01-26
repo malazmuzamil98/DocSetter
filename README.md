@@ -14,7 +14,8 @@ This is made by an **ALX student** for **ALX students** who struggle with making
 
 ## installation
 
-1. Clone the repository inside your project directory.<br>
+1. Clone the repository inside your project directory.
+
 	```bash
 	git clone https://github.com/your_username/DocSetter.git
 
