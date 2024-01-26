@@ -18,10 +18,11 @@ This is made by an **ALX student** for **ALX students** who struggle with making
 	```bash
 	git clone https://github.com/your_username/DocSetter.git
 
-
-
-
-
+**Usage:**
+1. ```bash
+	$ python <main.py> <file.py> <function_name> <file.txt>
+- file.py: name of the module you have function in that you want to test
+- file.txt: name of the .txt file to create for the doctests
 <!-- ** IMPORTANT ** :
 - If you need to add more tests just copy any part from (::) to the next (::) and past
 it underneath your last test.
