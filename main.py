@@ -68,7 +68,7 @@ def make_doc(function_name, module_name):
 		a list of all new lines ready to write
 	"""
 	new_lines = []
-	with open ("blueprint.txt") as file:
+	with open ("./DocSetter/blueprint.txt") as file:
 		lines = file.readlines()
 		for line in lines:
 			line = re.sub(r"<function_name>", function_name, line)
