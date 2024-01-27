@@ -21,7 +21,7 @@ This is made by an **ALX student** for **ALX students** who struggle with making
 
 ## Usage
 - ```bash
-	$ python main.py <file.py>
+	$ python <main.py> <file.py>
 - *file.py* : name of the module you have the function in that you want to test.
 
 - If you need to add more tests just copy from (::) to the next (::) and past
@@ -38,7 +38,7 @@ it underneath your last test.
 
 ## Example
 - ```bash
-	$ python <main>.py <0-add_integer.py>
+	$ python <main.py> <0-add_integer.py>
 
 - Folder **tests** created plus the **.txt** file created
 
