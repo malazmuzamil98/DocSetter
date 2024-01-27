@@ -1,4 +1,4 @@
-# DOCSETTER
+# DocSetter
 
 ## Description
 This is made by an **ALX student** for **ALX students** who struggle with making *Doctests* for there python projects
