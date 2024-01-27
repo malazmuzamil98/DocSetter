@@ -21,10 +21,8 @@ This is made by an **ALX student** for **ALX students** who struggle with making
 
 ## Usage
 - ```bash
-	$ python main.py <file.py> <function_name> <file.txt>
+	$ python main.py <file.py>
 - *file.py* : name of the module you have the function in that you want to test.
-- *function_name*: name of the function you are testing.
-- *file.txt* : name of the .txt file to create for the doctests.
 
 - If you need to add more tests just copy from (::) to the next (::) and past
 it underneath your last test.
@@ -40,7 +38,7 @@ it underneath your last test.
 
 ## Example
 - ```bash
-	$ python <main>.py <0-add_integer.py> <add_integer> <0-add_integer.txt>
+	$ python <main>.py <0-add_integer.py>
 
 - Folder **tests** created plus the **.txt** file created
 
